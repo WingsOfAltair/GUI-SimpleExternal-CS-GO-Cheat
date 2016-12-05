@@ -1,0 +1,5 @@
+C:\Users\Waffles\Desktop\SimpleExternal\SimpleExternal\Memory\bin\Debug\Memory.dll
+C:\Users\Waffles\Desktop\SimpleExternal\SimpleExternal\Memory\bin\Debug\Memory.pdb
+C:\Users\Waffles\Desktop\SimpleExternal\SimpleExternal\Memory\obj\Debug\Memory.csprojResolveAssemblyReference.cache
+C:\Users\Waffles\Desktop\SimpleExternal\SimpleExternal\Memory\obj\Debug\Memory.dll
+C:\Users\Waffles\Desktop\SimpleExternal\SimpleExternal\Memory\obj\Debug\Memory.pdb

@@ -1,0 +1,14 @@
+C:\Users\Waffles\Desktop\SimpleExternal\SimpleExternal\Smurf.GlobalOffensive\bin\Debug\Smurf.GlobalOffensive.exe
+C:\Users\Waffles\Desktop\SimpleExternal\SimpleExternal\Smurf.GlobalOffensive\bin\Debug\Smurf.GlobalOffensive.pdb
+C:\Users\Waffles\Desktop\SimpleExternal\SimpleExternal\Smurf.GlobalOffensive\bin\Debug\INIFileParser.dll
+C:\Users\Waffles\Desktop\SimpleExternal\SimpleExternal\Smurf.GlobalOffensive\bin\Debug\Memory.dll
+C:\Users\Waffles\Desktop\SimpleExternal\SimpleExternal\Smurf.GlobalOffensive\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Waffles\Desktop\SimpleExternal\SimpleExternal\Smurf.GlobalOffensive\bin\Debug\Memory.pdb
+C:\Users\Waffles\Desktop\SimpleExternal\SimpleExternal\Smurf.GlobalOffensive\bin\Debug\INIFileParser.xml
+C:\Users\Waffles\Desktop\SimpleExternal\SimpleExternal\Smurf.GlobalOffensive\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Waffles\Desktop\SimpleExternal\SimpleExternal\Smurf.GlobalOffensive\obj\Debug\Smurf.GlobalOffensive.csprojResolveAssemblyReference.cache
+C:\Users\Waffles\Desktop\SimpleExternal\SimpleExternal\Smurf.GlobalOffensive\obj\Debug\Smurf.GlobalOffensive.Properties.Resources.resources
+C:\Users\Waffles\Desktop\SimpleExternal\SimpleExternal\Smurf.GlobalOffensive\obj\Debug\Smurf.GlobalOffensive.csproj.GenerateResource.Cache
+C:\Users\Waffles\Desktop\SimpleExternal\SimpleExternal\Smurf.GlobalOffensive\obj\Debug\Smurf.GlobalOffensive.exe
+C:\Users\Waffles\Desktop\SimpleExternal\SimpleExternal\Smurf.GlobalOffensive\obj\Debug\Smurf.GlobalOffensive.pdb
+C:\Users\Waffles\Desktop\SimpleExternal\SimpleExternal\Smurf.GlobalOffensive\obj\Debug\Smurf.GlobalOffensive.SimpleExternalUI.resources
